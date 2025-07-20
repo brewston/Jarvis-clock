@@ -1,6 +1,6 @@
 # The-Ball-XiaoZhi
 
-Fork of BigBobba's Xiaozhi ball code
+Fork of BigBobba's Xiaozhi ball code - https://github.com/BigBobbas/The-Ball-XiaoZhi/blob/Dev/ball.yaml  
 
 1  - Added battery code from realdeco's repo  - https://github.com/RealDeco/xiaozhi-esphome/blob/main/devices/Under_Development/v2.yaml  
 2  - Made the clocks (analog & digital) jarvis like  
