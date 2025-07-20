@@ -1,6 +1,6 @@
 # The-Ball-XiaoZhi
 
-Fork of BigBobbaa' Xiaozhi ball code
+Fork of BigBobba's Xiaozhi ball code
 
 1  - Added battery code from realdeco's repo
 2  - Made the clocks (analog & digital) jarvis like
